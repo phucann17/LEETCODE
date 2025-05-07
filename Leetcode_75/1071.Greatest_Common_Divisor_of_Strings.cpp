@@ -15,7 +15,6 @@ class Solution {
             for (int i = 0; i < a; i++){
                     res += str1[i];
             }
-    
             return res;
         }
     };
