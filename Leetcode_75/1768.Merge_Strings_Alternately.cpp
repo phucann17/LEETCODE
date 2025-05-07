@@ -13,6 +13,7 @@ class Solution {
                     res += word2[i];
                 }
             }
+            
             return res;
         }
     };
